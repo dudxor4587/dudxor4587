@@ -40,7 +40,7 @@
   <hr>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dudxor4587&theme=graywhite&show_icons=true) 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudxor4587&theme=graywhite&layout=compact)
+  <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dudxor4587&theme=graywhite&layout=compact) --!>
 </div>
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
