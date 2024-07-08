@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=200&section=header&text=Youngtaek%20Kim&fontSize=50" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />	
 </div>
 <div align=center>
 	<h3>🗂️ Tech Stack 🗂️</h3>
