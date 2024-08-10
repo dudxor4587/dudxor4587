@@ -26,17 +26,6 @@
 </div>
 <br>
 <div align=center>
-	<p>🛠 Tools 🛠</p>
-</div>
-<div align=center>
-	<img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white" />
-  	<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white" />
-	<br>
-  	<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=VisualStudioCode&logoColor=white" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-</div>
-<br>
-<div align=center>
 	<p>📗 Blog 📗</p>
   <a href="https://velog.io/@devinsight/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
