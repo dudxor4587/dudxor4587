@@ -1,16 +1,6 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />	
 </div>
-
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/dudxor4587"
-  width="600"
-  height="300"
-/>
-</a>
-  
   
 <div align=center>
 	<h3>🗂️ Tech Stack 🗂️</h3>
@@ -40,6 +30,17 @@
 	<p>📗 Blog 📗</p>
   <a href="https://velog.io/@devinsight/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 </div>
+
+<div align=center>
+	<a href="https://github.com/devxb/gitanimals">
+		<img
+		  src="https://render.gitanimals.org/farms/dudxor4587"
+		  width="600"
+		  height="300"
+		/>
+	</a>
+</div>
+
 <div align=center>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 </div>
