@@ -36,7 +36,7 @@
 		<img
 		  src="https://render.gitanimals.org/farms/dudxor4587"
 		  width="600"
-		  height="150"
+		  height="200"
 		/>
 	</a>
 </div>
