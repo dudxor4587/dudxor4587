@@ -1,6 +1,15 @@
 <div align=center>
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />	
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/dudxor4587"
+    width="600"
+    height="120"
+  />
+</a>
+  
 <div align=center>
 	<h3>🗂️ Tech Stack 🗂️</h3>
 </div>
