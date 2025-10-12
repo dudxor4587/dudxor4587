@@ -24,26 +24,23 @@
   	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 	<img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=Oracle&logoColor=white" />
+  <br>
+	<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white" />
+	<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <br>
+  	<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" />
+	<img src="https://img.shields.io/badge/Rabbitmq-FF6600?style=flat&logo=rabbitmq&logoColor=white" />
+  <br>
+
 </div>
+<div align=center>
+	<p></p>
 <br>
 <div align=center>
 	<p>📗 Blog 📗</p>
-  <a href="https://velog.io/@devinsight/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://velog.io/@devinsight/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"/></a>
 </div>
 
-<br>
-<div align=center>
-	<a href="https://github.com/devxb/gitanimals">
-		<img
-		  src="https://render.gitanimals.org/farms/dudxor4587"
-		  width="600"
-		  height="300"
-		/>
-	</a>
-</div>
-
-<div align=center>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
-</div>
 
 
